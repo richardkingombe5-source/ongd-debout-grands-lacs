@@ -1,0 +1,8 @@
+{
+  "name": "Remix: ONGD DEBOUT GRANS LACS",
+  "description": "Logiciel de gestion de prêts, de suivi de remboursement et de génération de notes d\u0027engagement avec synchronisation Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
